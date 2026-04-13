@@ -4,11 +4,6 @@
 - 🌱 I’m currently learning about IA.
 - 📫 How to reach me: renan_ll@hotmail.com.
 
- 
-
-<a href="https://github.com/renan-lemes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-lemes&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
 
 
 ### **Languages and Tools:**
